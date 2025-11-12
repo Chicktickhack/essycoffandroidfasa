@@ -7,3 +7,10 @@ Flowchart Essycoff Android Studio (fasa version)
 
 
 
+
+
+
+
+<img width="1080" height="2400" alt="Screenshot_20251111_093838" src="https://github.com/user-attachments/assets/57a5bdd0-32c4-4934-ba0b-f8484f7fcb6e" /> | <img width="1080" height="2400" alt="Screenshot_20251111_093831" src="https://github.com/user-attachments/assets/6ecb2b5b-5c50-4187-aefa-f8463b94911d" /> | <img width="1080" height="2400" alt="Screenshot_20251111_093821" src="https://github.com/user-attachments/assets/6dd40c05-c483-4c6a-9735-73706160fa33" /> | <img width="1080" height="2400" alt="Screenshot_20251111_093751" src="https://github.com/user-attachments/assets/f9fcb31f-713b-41f3-a562-29957ce7ca46" />
+
+
